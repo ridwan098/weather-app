@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 
+// need to sort out the image especially when cold as it streches. also on load, the page is empty
+// add some things to it!
 const api = {
     key: '9e6f6612e4185979dbaeb5b588ed1a81',
     base: "https://api.openweathermap.org/data/2.5/"
