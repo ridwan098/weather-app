@@ -35,7 +35,7 @@ main{
 .search-box{
     width: 100%;
     margin: 0 0 75px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 
 .search-box .search-bar{
