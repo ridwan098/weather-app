@@ -1,4 +1,4 @@
-[![screenshot of hangman game](src/images/homePage.png)](https://hopeful-davinci-0d18bd.netlify.app/)
+[![screenshot of hangman game](src/images/homepage2.png)](https://hopeful-davinci-0d18bd.netlify.app/)
 # Hangman game
 
 A visual implementation of hangman game I originally created in python. It uses react and is hosted on netlify.
