@@ -9,9 +9,11 @@ body{
 }
 
 .app{
-    background-image: url('./images/cold-bg.jpg');
-    background-size:100vw 100vh;
-    background-position: bottom; 
+    background-image: url('./images/cold-bg2.jpg');
+    
+    
+    background-size: 100% 100%;
+    background-position: left top;
     transition: 0.4s ease-out;
     background-repeat: no-repeat;
 
@@ -33,13 +35,13 @@ main{
 .search-box{
     width: 100%;
     margin: 0 0 75px;
+    margin-top: 20px;
 }
 
 .search-box .search-bar{
     display: block;
     width:100%;
     padding: 15px;
-
     appearance: none;
     background: none;
     border: none;
